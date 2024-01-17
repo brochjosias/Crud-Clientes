@@ -24,7 +24,7 @@ Clone o banco de dados como está organizado no projeto;
 
 Inicie o Back-end: yarn start.
 
---FRONT-END: cd frontend
+--FRONT-END: cd frontend;
 
 Instale as Dependências: npm install;
 
