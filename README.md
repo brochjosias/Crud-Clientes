@@ -6,7 +6,7 @@ Visão Geral: Este sistema proporciona uma variedade de recursos, incluindo a ad
 
 Funcionalidades: Inserir, ler, atualizar e deletar clientes.
 
-Tecnologias Utilizadas: Linguagens de Programação: Node.js, JavaScript; Frameworks: Express, React; Banco de Dados: MySQL Local; Outras Tecnologias: Axios.
+Tecnologias Utilizadas: Linguagens de Programação: JavaScript, HTML e CSS; Frameworks: Express, React; Banco de Dados: MySQL Local; Outras Tecnologias: Axios.
 
 Configuração do Ambiente de Desenvolvimento, siga estas etapas:
 
