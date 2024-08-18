@@ -2,32 +2,61 @@
 
 Bem-vindo ao Crud-Clientes! Este é um sistema de gerenciamento de clientes que oferece todas as funcionalidades essenciais de um CRUD.
 
-Visão Geral: Este sistema proporciona uma variedade de recursos, incluindo a administração de dados de clientes, além de facilitar a realização de operações básicas.
+## Visão Geral
 
-Funcionalidades: Inserir, ler, atualizar e deletar clientes.
+Este sistema proporciona uma variedade de recursos, incluindo a administração de dados de clientes e facilita a realização de operações básicas.
 
-Tecnologias Utilizadas: Linguagens de Programação: JavaScript, HTML e CSS; Frameworks: Express, React; Banco de Dados: MySQL Local; Outras Tecnologias: Axios.
+## Funcionalidades
 
-Configuração do Ambiente de Desenvolvimento, siga estas etapas:
+Inserir, ler, atualizar e deletar clientes
 
-Faça o download do repositório;
+## Tecnologias Utilizadas
 
-Em seu ambiente de desenvolvimento:
+Linguagens de Programação: _JavaScript_, _HTML_, _CSS_
+Frameworks: _Express_, _React_
+Banco de Dados: _MySQL Local_
+Outras Tecnologias: _Axios_
 
---BACK-END: cd api;
+## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
-Instale as Dependências: npm install;
+**BACK-END:**
 
-Abra o MySQL;
+```bash
+cd api
+```
 
-Clone o banco de dados como está organizado no projeto;
+Instale as Dependências:
 
-Inicie o Back-end: yarn start.
+```bash
+npm install
+```
 
---FRONT-END: cd frontend;
+Abra o MySQL.
 
-Instale as Dependências: npm install;
+Clone o banco de dados como está organizado no projeto.
 
-Inicie o Front-end: yarn start;
+Inicie o Back-end:
 
-Assim q carregar aparecerá o sistema seu navegador padrão.
+```bash
+yarn start
+```
+
+**FRONT-END:**
+
+```bash
+cd frontend
+```
+
+Instale as Dependências:
+
+```bash
+npm install
+```
+
+Inicie o Front-end:
+
+```bash
+yarn start
+```
+
+Assim que carregar, o sistema será exibido no seu navegador padrão.
