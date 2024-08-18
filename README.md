@@ -12,10 +12,11 @@ Inserir, ler, atualizar e deletar clientes
 
 ## Tecnologias Utilizadas
 
-Linguagens de Programação: _JavaScript_, _HTML_, _CSS_
-Frameworks: _Express_, _React_
-Banco de Dados: _MySQL Local_
-Outras Tecnologias: _Axios_
+- JavaScript
+- HTML
+- CSS
+- React
+- MySQL
 
 ## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
